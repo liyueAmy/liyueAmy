@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liyueAmy
 - 👀 I’m interested in physics and programming
-- 🌱 I’m currently learning game developing
-- 📫 How to reach me: discord @amy_109#0
+- 🌱 I’m currently learning python visalization
+- 📫 How to reach me: discord @amy_109#0; email yangxinying2011@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
